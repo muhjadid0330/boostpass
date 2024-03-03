@@ -17,11 +17,7 @@ def show_page():
         ### Teknik Informatika
 
         **Tim kami:**
-        1. **Muh Jadid Taqwa** (41520120026) - *Ketua Kelompok*
-        2. **Charles Julius Kangga** (41518120039)
-        3. **Saidi Syabab A.J** (41520110096)
-
-        Tujuan kami adalah untuk memenuhi tugas besar 2 pada mata kuliah Pemrograman Smart Web.
+        1. **Muh Jadid Taqwa** (41520120026)
         """
     )
 
